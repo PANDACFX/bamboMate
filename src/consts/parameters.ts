@@ -15,7 +15,7 @@ export const chainConst = ConfluxEspace
 // You can get one for free at https://thirdweb.com/create-api-key
 // Learn more here: https://blog.thirdweb.com/changelog/api-keys-to-access-thirdweb-infra
 export const clientIdConst = import.meta.env.VITE_TEMPLATE_CLIENT_ID || "e7c513a51c3bcd08867fd88554d0d441";
-
+//peque
 // Configure the primary color for buttons and other UI elements
 export const primaryColorConst = "blue";
 
