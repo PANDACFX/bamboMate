@@ -4,7 +4,7 @@ import { ConfluxEspace } from "@thirdweb-dev/chains";
 
 // Your smart contract address (available on the thirdweb dashboard)
 // For existing collections: import your existing contracts on the dashboard: https://thirdweb.com/dashboard
-export const contractConst = "0x0614463ce226a2433db9fFD7c9276B30EC533583";
+export const contractConst = "0x102e3Bd8d81A771005DA16E084f84d621F3433EF";
 
 // The name of the chain your contract is deployed to.
 // Refer to README.md on how to specify the chain name.
